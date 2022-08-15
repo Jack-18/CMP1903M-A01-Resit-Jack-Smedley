@@ -1,0 +1,15 @@
+C:\Users\wadds\Desktop\Resit\bin\Debug\net6.0\Resit.exe
+C:\Users\wadds\Desktop\Resit\bin\Debug\net6.0\Resit.deps.json
+C:\Users\wadds\Desktop\Resit\bin\Debug\net6.0\Resit.runtimeconfig.json
+C:\Users\wadds\Desktop\Resit\bin\Debug\net6.0\Resit.dll
+C:\Users\wadds\Desktop\Resit\bin\Debug\net6.0\Resit.pdb
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.csproj.AssemblyReference.cache
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.AssemblyInfoInputs.cache
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.AssemblyInfo.cs
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.csproj.CoreCompileInputs.cache
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.dll
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\refint\Resit.dll
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.pdb
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\Resit.genruntimeconfig.cache
+C:\Users\wadds\Desktop\Resit\obj\Debug\net6.0\ref\Resit.dll
